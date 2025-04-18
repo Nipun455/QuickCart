@@ -8,7 +8,7 @@ import Loading from "@/components/Loading";
 
 const Orders = () => {
 
-    const { currency } = useAppContext();
+    const { currency } = process.env.NEXT_PUBLIC_CURRENCY
 
     const [orders, setOrders] = useState([]);
     const [loading, setLoading] = useState(true);

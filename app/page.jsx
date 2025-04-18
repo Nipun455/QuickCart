@@ -8,7 +8,7 @@ import FeaturedProduct from "@/components/FeaturedProduct";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
-const Home = () => {
+const Page = () => {
   return (
     <>
       <Navbar/>
@@ -24,4 +24,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default Page;

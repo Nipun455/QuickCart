@@ -399,12 +399,12 @@ export const orderDummyData = [
     "address": {
       "_id": "67a1e4233f34a77b6dde9055",
       "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-      "fullName": "GreatStack",
+      "fullName": "Nipun Kumar Singh",
       "phoneNumber": "0123456789",
-      "pincode": 654321,
-      "area": "Main Road , 123 Street, G Block",
-      "city": "City",
-      "state": "State",
+      "pincode": 144411,
+      "area": "Lovely Professional University Hardaspur",
+      "city": "Pagwara",
+      "state": "Punjab",
       "__v": 0
     },
     "status": "Order Placed",
@@ -417,12 +417,12 @@ export const addressDummyData = [
   {
     "_id": "67a1e4233f34a77b6dde9055",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "fullName": "GreatStack",
+    "fullName": "NipunKumar Singh",
     "phoneNumber": "0123456789",
-    "pincode": 654321,
-    "area": "Main Road , 123 Street, G Block",
-    "city": "City",
-    "state": "State",
+    "pincode": 144411,
+    "area": "Lovely Professional University Hardaspur",
+    "city": "Pagwara",
+    "state": "Punjab",
     "__v": 0
   }
 ]
